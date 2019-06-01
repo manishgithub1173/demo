@@ -7,6 +7,24 @@
         "exchange": "NSE",
         "segment": "NSE",
         "security_id": 12345
+      },
+      {
+        "companyname": "L&T Infotech",
+        "exchange": "NSE",
+        "segment": "NSE",
+        "security_id": 12345
+      },
+      {
+        "companyname": "TATA Consultancy services",
+        "exchange": "NSE",
+        "segment": "NSE",
+        "security_id": 12345
+      },
+      {
+        "companyname": "Infosys",
+        "exchange": "NSE",
+        "segment": "NSE",
+        "security_id": 12345
       }
     ]
   },
@@ -19,6 +37,24 @@
     "results": [
       {
         "companyname": "TATA Steel",
+        "exch_symbol": "NSE",
+        "exchange": "NSE",
+        "security_id": 12345
+      },
+      {
+        "companyname": "HDFC Bank",
+        "exch_symbol": "NSE",
+        "exchange": "NSE",
+        "security_id": 12345
+      },
+      {
+        "companyname": "HCL Technologies",
+        "exch_symbol": "NSE",
+        "exchange": "NSE",
+        "security_id": 12345
+      },
+      {
+        "companyname": "ICICI Bank",
         "exch_symbol": "NSE",
         "exchange": "NSE",
         "security_id": 12345
