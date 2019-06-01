@@ -49,10 +49,56 @@
     "displayMessage": "string"
   }
   },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "comments": {
+  "data": {
+    "results": [
+      {
+        "bsegroup": "string",
+        "bselistedflag": true,
+        "categoryname": "string",
+        "co_code": 0,
+        "companyname": "TATA STEEL",
+        "companyshortname": "string",
+        "display_text": "string",
+        "exch_stenabledtus": "string",
+        "exch_symbol": "string",
+        "exchange": "NSE",
+        "face_value": 0,
+        "freeze_quantity": 0,
+        "from": "string",
+        "id": "string",
+        "industrycode": "string",
+        "industryname": "string",
+        "instrument": "string",
+        "isin": "string",
+        "lot_size": 0,
+        "lower_limit": 0,
+        "matched_identifier": "string",
+        "mcaptype": "string",
+        "name": "string",
+        "nselistedflag": true,
+        "preopen_exch_flag": "string",
+        "preopen_flag": "string",
+        "query_string": "string",
+        "score": 0,
+        "sectorcode": "string",
+        "sectorname": "string",
+        "security_id": "string",
+        "segment": "string",
+        "series": "string",
+        "stenabledtus": "string",
+        "symbol": "string",
+        "symbol_name": "string",
+        "tick_size": 0,
+        "update_date": "2019-05-31T12:06:01.867Z",
+        "upper_limit": 0
+      }
+    ]
+  },
+  "meta": {
+    "displayMessage": "string"
+  }
+},
   "profile": {
     "name": "typicode"
   }
