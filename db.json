@@ -15,7 +15,7 @@
         "security_id": 12345
       },
       {
-        "companyname": "TATA Consultancy services",
+        "companyname": "TATA Consultancy Services",
         "exchange": "NSE",
         "segment": "NSE",
         "security_id": 12345
@@ -55,6 +55,24 @@
       },
       {
         "companyname": "ICICI Bank",
+        "exch_symbol": "NSE",
+        "exchange": "NSE",
+        "security_id": 12345
+      },
+      {
+        "companyname": "Reliance",
+        "exch_symbol": "NSE",
+        "exchange": "NSE",
+        "security_id": 12345
+      },
+            {
+        "companyname": "Adani Power",
+        "exch_symbol": "NSE",
+        "exchange": "NSE",
+        "security_id": 12345
+      },
+            {
+        "companyname": "Avanti Seeds",
         "exch_symbol": "NSE",
         "exchange": "NSE",
         "security_id": 12345
