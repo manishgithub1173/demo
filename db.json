@@ -6,25 +6,25 @@
         "companyname": "TATA Steel",
         "exchange": "NSE",
         "segment": "NSE",
-        "security_id": 12345
+        "security_id": 1
       },
       {
         "companyname": "L&T Infotech",
         "exchange": "NSE",
         "segment": "NSE",
-        "security_id": 12345
+        "security_id": 2
       },
       {
         "companyname": "TATA Consultancy Services",
         "exchange": "NSE",
         "segment": "NSE",
-        "security_id": 12345
+        "security_id": 3
       },
       {
         "companyname": "Infosys",
         "exchange": "NSE",
         "segment": "NSE",
-        "security_id": 12345
+        "security_id": 4
       }
     ]
   },
@@ -39,43 +39,43 @@
         "companyname": "TATA Steel",
         "exch_symbol": "NSE",
         "exchange": "NSE",
-        "security_id": 12345
+        "security_id": 1
       },
       {
         "companyname": "HDFC Bank",
         "exch_symbol": "NSE",
         "exchange": "NSE",
-        "security_id": 12345
+        "security_id": 6
       },
       {
         "companyname": "HCL Technologies",
         "exch_symbol": "NSE",
         "exchange": "NSE",
-        "security_id": 12345
+        "security_id": 7
       },
       {
         "companyname": "ICICI Bank",
         "exch_symbol": "NSE",
         "exchange": "NSE",
-        "security_id": 12345
+        "security_id": 8
       },
       {
         "companyname": "Reliance",
         "exch_symbol": "NSE",
         "exchange": "NSE",
-        "security_id": 12345
+        "security_id": 9
       },
             {
         "companyname": "Adani Power",
         "exch_symbol": "NSE",
         "exchange": "NSE",
-        "security_id": 12345
+        "security_id": 10
       },
             {
         "companyname": "Avanti Seeds",
         "exch_symbol": "NSE",
         "exchange": "NSE",
-        "security_id": 12345
+        "security_id": 11
       }
     ]
   },
