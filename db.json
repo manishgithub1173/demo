@@ -1,88 +1,126 @@
 {
   "posts": {
-  "data": {
-    "results": [
-      {
-        "companyname": "TATA Steel",
-        "exchange": "NSE",
-        "segment": "NSE",
-        "security_id": 1
-      },
-      {
-        "companyname": "L&T Infotech",
-        "exchange": "NSE",
-        "segment": "NSE",
-        "security_id": 2
-      },
-      {
-        "companyname": "TATA Consultancy Services",
-        "exchange": "NSE",
-        "segment": "NSE",
-        "security_id": 3
-      },
-      {
-        "companyname": "Infosys",
-        "exchange": "NSE",
-        "segment": "NSE",
-        "security_id": 4
-      }
-    ]
+    "data": {
+      "results": [
+        {
+          "companyname": "TATA Steel",
+          "exchange": "NSE",
+          "segment": "NSE",
+          "security_id": 1
+        },
+        {
+          "companyname": "L&T Infotech",
+          "exchange": "NSE",
+          "segment": "NSE",
+          "security_id": 2
+        },
+        {
+          "companyname": "TATA Consultancy Services",
+          "exchange": "NSE",
+          "segment": "NSE",
+          "security_id": 3
+        },
+        {
+          "companyname": "Infosys",
+          "exchange": "NSE",
+          "segment": "NSE",
+          "security_id": 4
+        }
+      ]
+    },
+    "meta": {
+      "displayMessage": "string"
+    }
   },
-  "meta": {
-    "displayMessage": "string"
-  }
+  "watchlists": {
+    "meta": {
+      "displayMessage": "success"
+    },
+    "data": {
+      "watchlist_count": 3,
+      "watchlists": [
+        {
+          "id": 222,
+          "name": "My Investments",
+          "stock_count": 1,
+          "stocks": [
+            {
+              "id": "BSEE500002",
+              "name": "ABB India Ltd",
+              "exchange": "BSE",
+              "segment": "E",
+              "instrument": "EQUITY",
+              "symbol": "ABB",
+              "isin": "INE117A01022",
+              "security_id": 500002,
+              "series": "BZ"
+            }
+          ]
+        },
+        {
+          "id": 223,
+          "name": "My Fav",
+          "stock_count": 0
+        },
+        {
+          "id": 224,
+          "name": "My Favs",
+          "stock_count": 0
+        }
+      ]
+    }
   },
   "comments": {
-  "data": {
-    "results": [
-      {
-        "companyname": "TATA Steel",
-        "exch_symbol": "NSE",
-        "exchange": "NSE",
-        "security_id": 1
-      },
-      {
-        "companyname": "HDFC Bank",
-        "exch_symbol": "NSE",
-        "exchange": "NSE",
-        "security_id": 6
-      },
-      {
-        "companyname": "HCL Technologies",
-        "exch_symbol": "NSE",
-        "exchange": "NSE",
-        "security_id": 7
-      },
-      {
-        "companyname": "ICICI Bank",
-        "exch_symbol": "NSE",
-        "exchange": "NSE",
-        "security_id": 8
-      },
-      {
-        "companyname": "Reliance",
-        "exch_symbol": "NSE",
-        "exchange": "NSE",
-        "security_id": 9
-      },
-            {
-        "companyname": "Adani Power",
-        "exch_symbol": "NSE",
-        "exchange": "NSE",
-        "security_id": 10
-      },
-            {
-        "companyname": "Avanti Seeds",
-        "exch_symbol": "NSE",
-        "exchange": "NSE",
-        "security_id": 11
-      }
-    ]
+    "data": {
+      "results": [
+        {
+          "companyname": "TATA Steel",
+          "exch_symbol": "NSE",
+          "exchange": "NSE",
+          "security_id": 1
+        },
+        {
+          "companyname": "HDFC Bank",
+          "exch_symbol": "NSE",
+          "exchange": "NSE",
+          "security_id": 6
+        },
+        {
+          "companyname": "HCL Technologies",
+          "exch_symbol": "NSE",
+          "exchange": "NSE",
+          "security_id": 7
+        },
+        {
+          "companyname": "ICICI Bank",
+          "exch_symbol": "NSE",
+          "exchange": "NSE",
+          "security_id": 8
+        },
+        {
+          "companyname": "Reliance",
+          "exch_symbol": "NSE",
+          "exchange": "NSE",
+          "security_id": 9
+        },
+        {
+          "companyname": "Adani Power",
+          "exch_symbol": "NSE",
+          "exchange": "NSE",
+          "security_id": 10
+        },
+        {
+          "companyname": "Avanti Seeds",
+          "exch_symbol": "NSE",
+          "exchange": "NSE",
+          "security_id": 11
+        }
+      ]
+    },
+    "meta": {
+      "displayMessage": "string"
+    }
   },
-  "meta": {
-    "displayMessage": "string"
-  }
-},
   "profile": {
     "name": "typicode"
   }
