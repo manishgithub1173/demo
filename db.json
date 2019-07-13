@@ -98,6 +98,48 @@
               "isin": "INE117A01022",
               "security_id": 500002,
               "series": "BZ"
+            },            {
+              "id": "BSEE500005",
+              "name": "HDFC Bank",
+              "exchange": "BSE",
+              "segment": "E",
+              "instrument": "EQUITY",
+              "symbol": "ABB",
+              "isin": "INE117A01022",
+              "security_id": 500002,
+              "series": "BZ"
+            },
+            {
+              "id": "BSEE500006",
+              "name": "Bank of baroda",
+              "exchange": "BSE",
+              "segment": "E",
+              "instrument": "EQUITY",
+              "symbol": "ABB",
+              "isin": "INE117A01022",
+              "security_id": 500002,
+              "series": "BZ"
+            },            {
+              "id": "BSEE500005",
+              "name": "HDFC Bank",
+              "exchange": "BSE",
+              "segment": "E",
+              "instrument": "EQUITY",
+              "symbol": "ABB",
+              "isin": "INE117A01022",
+              "security_id": 500002,
+              "series": "BZ"
+            },
+            {
+              "id": "BSEE500006",
+              "name": "Bank of baroda",
+              "exchange": "BSE",
+              "segment": "E",
+              "instrument": "EQUITY",
+              "symbol": "ABB",
+              "isin": "INE117A01022",
+              "security_id": 500002,
+              "series": "BZ"
             }
           ]
         },
