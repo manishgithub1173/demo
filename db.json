@@ -146,7 +146,31 @@
         {
           "id": 223,
           "name": "My Fav",
-          "stock_count": 0
+          "stock_count": 2,
+          "stocks": [
+            {
+              "id": "BSEE500002",
+              "name": "ABB India Ltd",
+              "exchange": "BSE",
+              "segment": "E",
+              "instrument": "EQUITY",
+              "symbol": "ABB",
+              "isin": "INE117A01022",
+              "security_id": 500002,
+              "series": "BZ"
+            },
+                        {
+              "id": "BSEE500003",
+              "name": "Infosys",
+              "exchange": "BSE",
+              "segment": "E",
+              "instrument": "EQUITY",
+              "symbol": "ABB",
+              "isin": "INE117A01022",
+              "security_id": 500002,
+              "series": "BZ"
+            }
+          ]
         },
         {
           "id": 224,
