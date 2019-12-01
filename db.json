@@ -1,237 +1,51 @@
 {
-  "posts": {
-    "data": {
-      "results": [
-        {
-          "companyname": "TATA Steel",
-          "exchange": "NSE",
-          "segment": "NSE",
-          "security_id": 1
-        },
-        {
-          "companyname": "L&T Infotech",
-          "exchange": "NSE",
-          "segment": "NSE",
-          "security_id": 2
-        },
-        {
-          "companyname": "TATA Consultancy Services",
-          "exchange": "NSE",
-          "segment": "NSE",
-          "security_id": 3
-        },
-        {
-          "companyname": "Infosys",
-          "exchange": "NSE",
-          "segment": "NSE",
-          "security_id": 4
-        }
-      ]
+  "status": "success",
+  "message": "",
+  "data": [
+    {
+      "client_id": "1194654",
+      "trade_no": "123800",
+      "quantity": 50,
+      "traded_price": 141.95,
+      "exch_trade_time": "31-07-2019 14:55:00",
+      "exch_order_no": "1564550760487001000",
+      "exch_order_time": "31-07-2019 14:55:00"
     },
-    "meta": {
-      "displayMessage": "string"
-    }
-  },
-  "watchlists": {
-    "meta": {
-      "displayMessage": "success"
+        {
+      "client_id": "1194654",
+      "trade_no": "123800",
+      "quantity": 50,
+      "traded_price": 141.95,
+      "exch_trade_time": "31-07-2019 14:55:00",
+      "exch_order_no": "1564550760487001000",
+      "exch_order_time": "31-07-2019 14:55:00"
     },
-    "data": {
-      "watchlist_count": 3,
-      "watchlists": [
         {
-          "id": 222,
-          "name": "My Investments",
-          "stock_count": 1,
-          "stocks": [
-            {
-              "id": "BSEE500002",
-              "name": "ABB India Ltd",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            },
-                        {
-              "id": "BSEE500003",
-              "name": "Infosys",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            },
-            {
-              "id": "BSEE500004",
-              "name": "TCS",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            },
-            {
-              "id": "BSEE500005",
-              "name": "HDFC Bank",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            },
-            {
-              "id": "BSEE500006",
-              "name": "Bank of baroda",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            },            {
-              "id": "BSEE500005",
-              "name": "HDFC Bank",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            },
-            {
-              "id": "BSEE500006",
-              "name": "Bank of baroda",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            },            {
-              "id": "BSEE500005",
-              "name": "HDFC Bank",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            },
-            {
-              "id": "BSEE500006",
-              "name": "Bank of baroda",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            }
-          ]
-        },
-        {
-          "id": 223,
-          "name": "My Fav",
-          "stock_count": 2,
-          "stocks": [
-            {
-              "id": "BSEE500002",
-              "name": "ABB India Ltd",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            },
-                        {
-              "id": "BSEE500003",
-              "name": "Infosys",
-              "exchange": "BSE",
-              "segment": "E",
-              "instrument": "EQUITY",
-              "symbol": "ABB",
-              "isin": "INE117A01022",
-              "security_id": 500002,
-              "series": "BZ"
-            }
-          ]
-        },
-        {
-          "id": 224,
-          "name": "My Favs",
-          "stock_count": 0
-        }
-      ]
-    }
-  },
-  "comments": {
-    "data": {
-      "results": [
-        {
-          "companyname": "TATA Steel",
-          "exch_symbol": "NSE",
-          "exchange": "NSE",
-          "security_id": 1
-        },
-        {
-          "companyname": "HDFC Bank",
-          "exch_symbol": "NSE",
-          "exchange": "NSE",
-          "security_id": 6
-        },
-        {
-          "companyname": "HCL Technologies",
-          "exch_symbol": "NSE",
-          "exchange": "NSE",
-          "security_id": 7
-        },
-        {
-          "companyname": "ICICI Bank",
-          "exch_symbol": "NSE",
-          "exchange": "NSE",
-          "security_id": 8
-        },
-        {
-          "companyname": "Reliance",
-          "exch_symbol": "NSE",
-          "exchange": "NSE",
-          "security_id": 9
-        },
-        {
-          "companyname": "Adani Power",
-          "exch_symbol": "NSE",
-          "exchange": "NSE",
-          "security_id": 10
-        },
-        {
-          "companyname": "Avanti Seeds",
-          "exch_symbol": "NSE",
-          "exchange": "NSE",
-          "security_id": 11
-        }
-      ]
+      "client_id": "1194654",
+      "trade_no": "123800",
+      "quantity": 50,
+      "traded_price": 141.95,
+      "exch_trade_time": "31-07-2019 14:55:00",
+      "exch_order_no": "1564550760487001000",
+      "exch_order_time": "31-07-2019 14:55:00"
     },
-    "meta": {
-      "displayMessage": "string"
+        {
+      "client_id": "1194654",
+      "trade_no": "123800",
+      "quantity": 50,
+      "traded_price": 141.95,
+      "exch_trade_time": "31-07-2019 14:55:00",
+      "exch_order_no": "1564550760487001000",
+      "exch_order_time": "31-07-2019 14:55:00"
+    },
+        {
+      "client_id": "1194654",
+      "trade_no": "123800",
+      "quantity": 50,
+      "traded_price": 141.95,
+      "exch_trade_time": "31-07-2019 14:55:00",
+      "exch_order_no": "1564550760487001000",
+      "exch_order_time": "31-07-2019 14:55:00"
     }
-  },
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
